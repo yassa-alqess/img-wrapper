@@ -1,0 +1,5 @@
+/**
+* this is the system-wide cron job that i set to run each day at 12:00 am
+*/
+
+0 0 * * * <path-to-node> <path-to-core-script>
