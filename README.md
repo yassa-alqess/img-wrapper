@@ -1,8 +1,9 @@
-# img-wrapper
+# Img-wrapper
 
 
 I had an issue with that ton of screenshots that I take everyday, the probelem gets bigger when it comes to looking up..
-by grouping them based on their capture date and compressing them into daily zip files, that made me releaved.
+
+by grouping them based on their capture date and compressing them into daily zip files (despite the fact that they are already png compressed files), that made me releaved.
 
 ## Usage
 Ensure you have Node.js installed on your system.
